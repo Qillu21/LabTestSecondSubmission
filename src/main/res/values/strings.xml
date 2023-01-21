@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mind Shapener</string>
+    <string name="descriptiopn">This is simple mathematical games which is believe can train your mind. Two number are given randomly based on your level choice with mathematical operator. You just calculate the answer, write your answer and press check button. Every correct andswer will give you ! point and any wrong answer will deduct 1 point.</string>
+</resources>
